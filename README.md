@@ -1,5 +1,7 @@
 # MADpractical3_20012011136
 
-![L3](https://user-images.githubusercontent.com/110655668/189543056-6a88b96d-6d61-48d8-8a30-bf38060ce8aa.png)
-![L1](https://user-images.githubusercontent.com/110655668/189543059-f539cab4-fe06-4715-87f6-2567ba814f5a.png)
-![L2](https://user-images.githubusercontent.com/110655668/189543061-319d361c-926f-4348-aa4a-b24a8316cf92.png)
+![Light3](https://user-images.githubusercontent.com/110655668/189544580-0606588c-22ea-48a3-8671-4e32a342726d.png)
+
+![Light2](https://user-images.githubusercontent.com/110655668/189544572-5c1d9e53-f0c3-4245-acb6-f00bfe3bc8e4.png)
+
+![Light1](https://user-images.githubusercontent.com/110655668/189544582-d392820e-4a79-4ed2-9819-b77f8cfafc16.png)
